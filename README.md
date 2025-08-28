@@ -30,15 +30,17 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <p align="left">
-
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/yousef-el-basuony?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHB1RMbCsTdeQ4wKJMIja2A%3D%3D)" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  <!-- GitHub -->
+  <a href="https://github.com/Youssef800900" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30"/>
   </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yousef-el-basuony" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+  <!-- Portfolio -->
+  <a href="https://youssef800900.github.io/Portfolio_YousefElbasuony/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" width="30" height="30"/>
   </a>
 </p>
 
