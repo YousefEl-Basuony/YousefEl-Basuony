@@ -28,17 +28,14 @@
 - ⚡ Fun fact: I enjoy building practical projects where I can see clear results  
 
 <h2 align="left">:heart: Let's get connected:</h2>
-
 <p align="left">
-  <!-- LinkedIn -->
+  
   <a href="https://www.linkedin.com/in/yousef-el-basuony" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn"/>
   </a>
-
- 
-  <!-- Portfolio -->
-  <a href="[https://youssef800900.github.io/Portfolio_YousefElbasuony/](https://yousefel-basuony.github.io/Portfolio_YousefElbasuony/)" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" width="30" height="30"/>
+  <a href="https://yousefel-basuony.github.io/Portfolio_YousefElbasuony/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="30" height="30" alt="Portfolio"/>
   </a>
 </p>
+
 
