@@ -30,14 +30,12 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <p align="left">
-  <!-- GitHub -->
-  <a href="https://github.com/Youssef800900" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" height="30"/>
-  </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yousef-el-basuony" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
+
+ 
   <!-- Portfolio -->
   <a href="https://youssef800900.github.io/Portfolio_YousefElbasuony/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" width="30" height="30"/>
