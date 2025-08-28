@@ -37,7 +37,7 @@
 
  
   <!-- Portfolio -->
-  <a href="https://youssef800900.github.io/Portfolio_YousefElbasuony/" target="_blank">
+  <a href="[https://youssef800900.github.io/Portfolio_YousefElbasuony/](https://yousefel-basuony.github.io/Portfolio_YousefElbasuony/)" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" width="30" height="30"/>
   </a>
 </p>
