@@ -29,26 +29,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </a>
 
-    <!-- Backend / Databases -->
-    <a href="https://dotnet.microsoft.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> 
-    </a>
-    <a href="https://learn.microsoft.com/en-us/sql/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/> 
-    </a>
-
-    <!-- Android -->
-    <a href="https://developer.android.com/" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.android.com/jetpack/compose" target="_blank"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack compose" width="40" height="40"/> 
-    </a>
-    
-    <!-- Tools -->
-    <a href="https://git-scm.com/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
