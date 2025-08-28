@@ -30,10 +30,8 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/yousef-el-basuony?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHB1RMbCsTdeQ4wKJMIja2A%3D%3D)" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/YOUR_FACEBOOK/" target="_blank">
