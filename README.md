@@ -34,6 +34,16 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<h2 align="left">:heart: Let's get connected:</h2>
+<p align="left">
+  
+  <a href="https://www.linkedin.com/in/yousef-el-basuony" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://yousefel-basuony.github.io/Portfolio_YousefElbasuony/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="30" height="30" alt="Portfolio"/>
+  </a>
+</p>
 
 ```dart
 // tools_I_use organized
@@ -41,9 +51,10 @@
 class About extends Me { 
   const myTools = {  
     "Languages" : { "Kotlin", "Java", "XML", "Jetpack Compose", "Python", "JavaScript" },
-    "Database" : { "Firebase", "SQLite" },
-    "Editors" : { "Android Studio", "VSCode" },
+    "Database" : { "Firebase", "MySQL" },
+    "Editors" : { "Android Studio", "VSCode","VS" },
     "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Google Cloud" }
+    "OtherTools" : { "Git", "Figma", "Google Cloud","PowerPoint","Canva","MicrosoftWord","MicrosoftExcel" }
   };
 }
+
