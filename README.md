@@ -37,7 +37,6 @@
 - 💻 Currently learning **C++, C#, Java, Kotlin, .NET & SQL**  
 - 📱 Exploring **Android Development (XML + Jetpack Compose)**  
 - 🚀 Interested in **Backend Development & Mobile Development**  
-- 🌍 Aspiring to study Computer Science in **Germany**  
 - 🏆 2nd place in **Technical Gates 2025 – Backend Track**  
 - ⚡ Fun fact: I enjoy building practical projects where I can see clear results  
 
